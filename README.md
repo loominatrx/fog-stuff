@@ -1,4 +1,4 @@
-# ![header](/assets/Title.svg)
+# [![header](/assets/Title.svg)](https://github.com/Loominagit/fog-stuff/)
 
 ## About Redmi 10C
 The Xiaomi Redmi 10C is a 6.74" phone with a 720x1650px display. The Snapdragon 680 chipset is paired with 3/4GB of RAM and 32/64/128GB of storage. The main camera is 50MP and the selfie camera is 5MP. The battery has a 5000mAh (0r 6000mAh if you buy it from India) capacity, depending on where you buy the phone.
