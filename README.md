@@ -5,5 +5,5 @@ The Xiaomi Redmi 10C is a 6.74" phone with a 720x1650px display. The Snapdragon 
 > View the full specification at [GSMArena](https://www.gsmarena.com/xiaomi_redmi_10c-11418.php)
 
 ## Explore fog-stuff
-<img src="/assets/Custom-ROMS.svg" width="49%" height="49%"> <img src="/assets/MIUI.svg" width="49%" height="49%">
-<img src="/assets/Custom-Recovery.svg" width="49%" height="49%"> <img src="/assets/Tutorials.svg" width="49%" height="49%">
+<img src="/assets/Custom-ROMS.svg" alt="Check out the custom ROM section!" width="49%" height="49%"> <img src="/assets/MIUI.svg" alt="Download the stock ROM here!" width="49%" height="49%">
+<img src="/assets/Custom-Recovery.svg" alt="Check out the custom recovery section!" width="49%" height="49%"> <img src="/assets/Tutorials.svg" alt="Ever feel lost? Check out the tutorials!" width="49%" height="49%">
