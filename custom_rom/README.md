@@ -16,7 +16,7 @@ Your help is appreciated! :D
 
 # Downloads
 ## Official ROMs
-Official ROMs are ROM that is compiled and maintained by the ROM team that developed the ROM with official support the maintainer.
+Official ROMs are ROMs that are compiled and maintained by the ROM team that developed the ROM with official support the maintainer.
 
 ### [Nusantara Project](https://nusantararom.org/)
 NusantaraProject (NusantaraROM) is an android operating system that have been modified with additional features and security patch updates. NusantaraProject is also known as Nusantara Android Development (NAD).
@@ -47,6 +47,6 @@ Known issues:
 --
 
 ### Un-official
-Unofficial ROMs are ROM that is compiled and maintained by whoever built that ROM, and has zero support from the ROM team.
+Unofficial ROMs are ROMs that are compiled and maintained by whoever built that ROM, and has zero support from the ROM team.
 
 TBA
