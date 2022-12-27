@@ -36,6 +36,7 @@ RiceDroid is an Android operating system that aims for customizability and perfo
 
 Known issues:
 - Zoom crashing (citiation needed)
+- Video playback issues
 
 | Android version | Maintainer | Build date | GApps included | SafetyNet Pass (non-root) |
 |:---|:---|:---|:---|:---|
