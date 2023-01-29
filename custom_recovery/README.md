@@ -6,19 +6,46 @@ Custom recovery is a replacement of your existing recovery menu in your Android 
 ## Downloads
 
 ### TWRP v3.6.1
-Use this TWRP only ***IF*** you are using Android 11 ROMs (stock or custom) or earlier!
+
+Build by: [@dblenk9](https://github.com/boedhack99)
+- Donate: [DANA](https://link.dana.id/qr/9dtkj3y) (only for Indonesian citizens)
+- Support channel: [Telegram](https://t.me/diskusiromlah)
+
+Changelog:
+- Initial build
+
+Notes:
+- This custom recovery **can only be used** for Android 11 ROMs
+- Flashing this version while you're on Android 12 ROM **will cause softbrick**, **flash newer version instead**.
 
 <a href="https://drive.google.com/file/d/1mhrghxQCiHmhpYKZqKMHxzb82v9cVvrp/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.6.1" width="250" height="87"></a>
 
+---
+
 ### TWRP v3.6.2
-Use this TWRP only ***IF*** you are using Android 12 ROMs (stock or custom) or newer version!
+
+Build by: [@dblenk9](https://github.com/boedhack99)
+- Donate: [DANA](https://link.dana.id/qr/9dtkj3y) (only for Indonesian citizens)
+- Support channel: [Telegram](https://t.me/diskusiromlah)
+
+Changelog:
+- Sync with latest TWRP commits
 
 <a href="https://drive.google.com/file/d/1AvzVHsGdy2EGjXXzn2Cup5phvCokHUdl/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.6.2" width="250" height="87"></a>
 
+---
+
 ### TWRP v3.7.0
-Use this TWRP only ***IF*** you are using Android 12 ROMs (stock or custom) or newer version!
+
+Build by: [@dblenk9](https://github.com/boedhack99)
+- Donate: [DANA](https://link.dana.id/qr/9dtkj3y) (only for Indonesian citizens)
+- Support channel: [Telegram](https://t.me/diskusiromlah)
+
+Changelog:
+- Sync with latest TWRP commits
+- Update kernel to MIUI V13.0.2.0.SGEMIXM
+- Update blobs to MIUI V13.0.2.0.SGEMIXM
+- Fixed MTP
+- Supports Android 13 decryption
 
 <a href="https://drive.google.com/file/d/1vaOBvXv477Yb9wOhekCuHOLPVmpcVRxx/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
-
-## Note
-If you know who created these TWRP, please let me know who created it and the donation link if possible, as they deserve more attention!
