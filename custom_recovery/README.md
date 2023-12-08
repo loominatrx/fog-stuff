@@ -36,7 +36,7 @@ Changelog:
 
 ---
 
-### TWRP v3.7.0
+### TWRP v3.7.0 (dblenk9)
 
 Build by: [@dblenk9](https://github.com/boedhack99)
 - Donate: [DANA](https://link.dana.id/qr/9dtkj3y) (only for Indonesian citizens)
@@ -50,3 +50,22 @@ Changelog:
 - Supports Android 13 decryption
 
 <a href="https://drive.google.com/file/d/1vaOBvXv477Yb9wOhekCuHOLPVmpcVRxx/view?usp=share_link"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
+
+---
+
+
+### TWRP v3.7.0 (AlterNoegraha)
+
+Build by: [@AlterNoegraha](https://github.com/alternoegraha)
+- Donate: [Saweria](http://saweria.co/alternoegraha) (only for Indonesian citizens) | [PayPal](http://paypal.me/alternoegraha)
+- Support channel: [Telegram](https://t.me/alternoegraha_headquarters)
+
+Changelog:
+- (05/12) Removed userdata casefolding 
+later A14 ROM builds also have this thing removed to make A13->A14 flashing works without a problem
+- Initial build
+- Ship with OSS kernel
+- Sync to latest sources
+- Working Android 14 decryption 
+
+<a href="https://github.com/alternoegraha/releases/releases/tag/twrp_fog-3.7.0-20231205"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
