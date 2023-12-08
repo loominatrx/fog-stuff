@@ -68,4 +68,4 @@ later A14 ROM builds also have this thing removed to make A13->A14 flashing work
 - Sync to latest sources
 - Working Android 14 decryption 
 
-<a href="https://github.com/alternoegraha/releases/releases/tag/twrp_fog-3.7.0-20231205"><img src="/assets/Download-GD.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
+<a href="https://github.com/alternoegraha/releases/releases/tag/twrp_fog-3.7.0-20231205"><img src="/assets/Download-btn.svg" alt="Download TWRP v3.7.0" width="250" height="87"></a>
